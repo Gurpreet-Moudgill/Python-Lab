@@ -7,11 +7,11 @@ f = 4+5j
 g = {"lion", "cat"}
 h = True
 
-print(a)
-print(b)
-print(c)
-print(d)
-print(e)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
 print(f)
 print(g)
 print(h)
