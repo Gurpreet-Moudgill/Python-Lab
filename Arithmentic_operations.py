@@ -1,6 +1,6 @@
-a = 1
+a = 6
 b = 2
-c = 5
 print(a+b)
-print(b-a)
-print()
+print(a-b)
+print(a/b)
+print(a*b)
