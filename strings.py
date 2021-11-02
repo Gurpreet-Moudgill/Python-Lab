@@ -3,4 +3,4 @@ w = " Gurpreet Moudgill"
 print(v)
 print(w)
 vw = v+w
-print(vw)
+print(vw)  # concatenation
